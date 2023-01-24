@@ -1,0 +1,15 @@
+{
+  "name": "teste-react-native-cypress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "cypress:open" : "cypress open"
+  },
+  "keywords": [],
+  "author": "Ryan https://github.com/Ryan5ds",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^9.6.1"
+  }
+}
